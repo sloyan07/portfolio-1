@@ -3,14 +3,12 @@
   padding: 0;
   scroll-behavior: smooth;
 }
-
 body {
   color: blanchedalmond;
   background-color: black;
   font-family: Poppins;
   font-family: PT sans;
 }
-
 header {
   display: -webkit-box;
   display: -ms-flexbox;
